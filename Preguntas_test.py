@@ -1,7 +1,10 @@
+# Este codigo es para probar usando la libreria pytest si nuestras cosas funcionan, parece que falla para el caso de la funcion 2 pero la verdad no sabria porque pasa,
+# De todos modos deben correrlo en su terminal como:
+# py -m pytest Preguntas_test
+
 import Tarea1
 import TESTFUNCTION as test
 import pytest
-# intento fallido por que solo funciona para pregunta 1
 
 entradas = test.data_input()
 
