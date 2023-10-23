@@ -1,5 +1,4 @@
-# NO INCLUIR EN LA ENTREGA DEL PROYECTO FINAL
-# Funcion llamada para hacer el proceso de testeo facil
+# Este codigo obtiene los inputs y las respuestas y las deja en una lista
 
 import os
 
