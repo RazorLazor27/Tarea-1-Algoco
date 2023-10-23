@@ -33,10 +33,7 @@ def Pregunta_2(boxes, bottom_index=-1, memo={}):
 
 boxes = test.data_input()
 resultado = test.data_output()
-for i in range(len(resultado)):
 
-    entrada = Pregunta_1(initial_input(boxes[i]))
-    if (entrada == resultado[i]):
-        print("PASSED")
-    else:
-        print("FAILDED")
+# Cambiar el 0 por el conjunto de cajas a probar 
+# print(Pregunta_1(initial_input(boxes[0])
+# print(Pregunta_2(initial_input(boxes[0])
