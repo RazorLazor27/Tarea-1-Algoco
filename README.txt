@@ -1,4 +1,4 @@
-Para la realización de esta tarea se ocupo el Lenguaje de Programación Python en su version 3.12.0, el codigo fue corrido en Windows 10 y ademas Linux
+Para la realización de esta tarea se ocupo el Lenguaje de Programación Python en su version 3.12.0, el codigo fue corrido en Windows 10 y ademas en Linex usando el distro Fedora 38
 
 --> Instrucciones para el uso del programa:
     --> Se deben ingresar los archivos donde estan los valores de las cajas con el formato "input-n.dat" y las soluciones con el formato "output-n.dat" idealmente estas estarían en orden
@@ -8,4 +8,4 @@ python3 EntregaFinal.py ) donde este tiene incluido el archivo "flujo_datos.py" 
 pedira al usurio apretar una tecla como "Enter" para que el programa se termine
 
 --> Consideraciones:
-    --> *Poner aqui alguna consideracion extra*
+    --> Se tiene que seguir el formato de los datos entregados en los casos de prueba 
