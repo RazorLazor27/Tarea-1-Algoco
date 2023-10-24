@@ -11,8 +11,8 @@ Integrantes:
 
 Aportes:
   Nicolas:
-    Creo los archivos que extraen la información de los archivos "inputs" y "outputs" para probar los casos
+    Creó los archivos que extraen la información de los archivos "inputs" y "outputs" para probar los casos
   Javiera:
-    *Poner Cosas*
+    Hizo el código para Programación Dinámica
   Maximiliano:
-    *Poner Cosas*
+    Hizo el código para Fuerza Bruta Recursivo
