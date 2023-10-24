@@ -1,0 +1,18 @@
+Integrantes:
+  Nicolas Gabriel Berenguela Perez
+    Rol: 202173619-0
+    Rut: 21.095.788-K
+  Javiera Cristina Osorio Mardones
+    Rol: 202173656-5
+    Rut: 20.966.993-5
+  Maximiliano Alberto Bardi Ureta
+    Rol: 202173510-0
+    Rut: 21.030.899-7
+
+Aportes:
+  Nicolas:
+    Creo los archivos que extraen la información de los archivos "inputs" y "outputs" para probar los casos
+  Javiera:
+    *Poner Cosas*
+  Maximiliano:
+    *Poner Cosas*
